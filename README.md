@@ -22,7 +22,7 @@ to your `composer.json` file:
 {
     "require": {
         "despro3/omnipay-walletone": "~1.0"
-    }
+    },
     "repositories": [
     {
         "type": "git",
