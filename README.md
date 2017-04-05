@@ -21,8 +21,14 @@ to your `composer.json` file:
 ```json
 {
     "require": {
-        "dercoder/omnipay-walletone": "~1.0"
+        "despro3/omnipay-walletone": "~1.0"
     }
+    "repositories": [
+    {
+        "type": "git",
+        "url": "https://github.com/despro3/omnipay-walletone"
+    }
+]
 }
 ```
 
