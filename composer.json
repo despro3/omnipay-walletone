@@ -24,13 +24,6 @@
       "Omnipay\\WalletOne\\": "src/"
     }
   },
-  "require": {
-    "omnipay/common": "^2.5"
-  },
-  "require-dev": {
-    "omnipay/tests": "~2.0",
-    "satooshi/php-coveralls": "1.0.0"
-  },
   "extra": {
     "branch-alias": {
       "dev-master": "1.x-dev"
